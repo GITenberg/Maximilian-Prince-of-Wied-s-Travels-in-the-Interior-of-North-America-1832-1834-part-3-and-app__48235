@@ -1,4 +1,5 @@
 _repo: Maximilian-Prince-of-Wied-s-Travels-in-the-Interior-of-North-America-1832-1834-part-3-and-app__48235
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -27,6 +28,9 @@ contributor:
     deathdate: 1847
     gutenberg_agent_id: '35390'
     url: http://www.gutenberg.org/2009/agents/35390
+covers:
+- cover_type: archival
+  image_path: 48235-h/images/cover.jpg
 creator:
   author:
     agent_name: Wied, Maximilian, Prinz von
@@ -39,6 +43,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39650
     wikipedia: http://en.wikipedia.org/wiki/Prince_Maximilian_of_Wied-Neuwied
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48235#Maximilian-Prince-of-Wied-s-Travels-in-the-Interior-of-North-America-1832-1834-part-3-and-app_
 gutenberg_issued: '2015-02-11'
 gutenberg_type: Text
 identifiers:
